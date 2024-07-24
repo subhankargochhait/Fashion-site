@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+.nav-gap li{
+    padding: 15px;
+}
+.baner-bg{
+    background-color: #e1e1e1;
+}
+.banner-heading{
+    font-family: New Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+.banner-img{
+    height: 784px;
+    width: 871px;
+}
+.banner-text{
+    .archivo-black-regular {
+        font-family: "Archivo Black", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+      }
+    font-weight: 900;
+    padding-top: 30px;
+}
+.banner-main{
+    border-radius: 60px;
+    height: 450px;
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.brand-logo{
+    background-color: #EBD96B;
+    padding: 25px;
+}
+.NEW-ARRIVALS{
+    font-family: New Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+.aririvals-img{
+    height: 450px;
+    width: 300px;
+}
+.shop-section{
+    background-color: #ffef63;
+    height: 480px;
+    width: 100%;
+}
+.shop-section-girl{
+    height: 480px;
+    width: 600px;
+    padding-left: 90px;
+}
+.shop-heading{
+    padding-top: 80px;
+
+}
+.shop-font{
+    font-family: New Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+}
+.shop-heading-bg{
+    background-image: url(/images/Extra/Rectangle\ 25.png);
+    background-repeat: no-repeat;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: -70px;
+}
+.shop-para{
+    display: block;
+}
+.shop-para-main{
+    font-weight: 500;
+}
+.shop-para-span{
+    display: block;
+    font-weight: 500;
+}
+.favourite-img{
+    height: 350px;
+    width: 500px;
+}
